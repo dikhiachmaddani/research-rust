@@ -1,0 +1,7 @@
+[print_schema]
+file = "src/model/schema.rs"
+with_docs = false
+
+[migrations_directory]
+dir = "migrations"
+

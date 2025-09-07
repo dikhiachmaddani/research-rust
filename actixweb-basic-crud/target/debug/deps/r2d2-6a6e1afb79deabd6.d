@@ -1,0 +1,10 @@
+/Users/dikhiachmaddani/Documents/Project/learning-something/research-rust/actixweb-basic-crud/target/debug/deps/r2d2-6a6e1afb79deabd6.d: /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/lib.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/config.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/event.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/extensions.rs
+
+/Users/dikhiachmaddani/Documents/Project/learning-something/research-rust/actixweb-basic-crud/target/debug/deps/libr2d2-6a6e1afb79deabd6.rlib: /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/lib.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/config.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/event.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/extensions.rs
+
+/Users/dikhiachmaddani/Documents/Project/learning-something/research-rust/actixweb-basic-crud/target/debug/deps/libr2d2-6a6e1afb79deabd6.rmeta: /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/lib.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/config.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/event.rs /Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/extensions.rs
+
+/Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/lib.rs:
+/Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/config.rs:
+/Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/event.rs:
+/Users/dikhiachmaddani/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/r2d2-0.8.10/src/extensions.rs:
